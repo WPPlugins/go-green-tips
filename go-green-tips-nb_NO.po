@@ -1,0 +1,214 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Green Living Tips\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-04-17 07:56-0500\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Onur Kocatas <onur@lycie.com>\n"
+"Language-Team: Galina Miclosic <galmik@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Ukrainian\n"
+"X-Poedit-Country: UKRAINE\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: gogreentips.php:
+#: 74
+msgid "Change to fluorescent bulbs"
+msgstr "Skift til fluoriserende lyspærer"
+
+#: gogreentips.php:
+#: 75
+msgid "Hang outside to dry"
+msgstr "Heng opp klær til tørk"
+
+#: gogreentips.php:
+#: 76
+msgid "Use both sides of paper"
+msgstr "Bruk begge sider av papir"
+
+#: gogreentips.php:
+#: 77
+msgid "Get rid of baths"
+msgstr "Ikke bruk badekar"
+
+#: gogreentips.php:
+#: 78
+msgid "Do not get bottled water"
+msgstr "Ikke bruk vann på flaske"
+
+#: gogreentips.php:
+#: 79
+msgid "Shorten your shower"
+msgstr "Bruk mindre tid i dusjen"
+
+#: gogreentips.php:
+#: 80
+msgid "Recycle glass"
+msgstr "Resirkuler Glass"
+
+#: gogreentips.php:
+#: 81
+msgid "Turn down your thermostat"
+msgstr "Skru ned termostaten"
+
+#: gogreentips.php:
+#: 82
+msgid "Turn off your lights"
+msgstr "Skru av lysene dine"
+
+#: gogreentips.php:
+#: 83
+msgid "Do not get a paper phone book"
+msgstr "Ikke ta imot telefonkatalogen i papi"
+
+#: gogreentips.php:
+#: 84
+msgid "Give things away"
+msgstr "Gi vekk ting "
+
+#: gogreentips.php:
+#: 85
+msgid "Go to a car wash"
+msgstr "Bruk bilvaskemaskin"
+
+#: gogreentips.php:
+#: 86
+msgid "Buy rechargeable batteries"
+msgstr "Kjøp oppladbare batterier"
+
+#: gogreentips.php:
+#: 87
+msgid "Pay your bills online"
+msgstr "Betal regningene dine på nettet"
+
+#: gogreentips.php:
+#: 88
+msgid "Get a reusable bag"
+msgstr "Bruk bæreposer som du kan bruke flere ganger"
+
+#: gogreentips.php:89
+msgid "Inflate your tires"
+msgstr "Sjekk lufttrykket i dekkene dine"
+
+#: gogreentips.php:90
+msgid "Plant a tree"
+msgstr "Plant et tre"
+
+#: gogreentips.php:
+#: 91
+msgid "Walk or ride your bike when you can"
+msgstr "Gå eller bruk sykelen din når du kan"
+
+#: gogreentips.php:
+#: 92
+msgid "If every house in the United States changed all of the light bulbs in their house, that would be equivalent to taking one million cars off the streets"
+msgstr "Hvis alle husstandene i USA skiftet lyspærene i huset ville det utgjort en million biler på veiene."
+
+#: gogreentips.php:
+#: 93
+msgid "Get a clothes line or rack to dry your cloths. Your clothes will last longer and you will save money"
+msgstr "Tørk klær på snor isteden for i trommer. Klærne vil vare lenger, og du vil spare en god slump penger."
+
+#: gogreentips.php:
+#: 94
+msgid "If you have a printer with a double sided print option, use it. You will save half of the amount of paper you would have normally used"
+msgstr "Bruk begge sider av et printerark, hvis du kan."
+
+#: gogreentips.php:
+#: 95
+msgid "Do not take baths, take showers. You will save about half the amount of water that you would if you were taking a bath"
+msgstr "Dusj isteden for badekar. Du sparer halvparten vann på dusj fremfor badekar."
+
+#: gogreentips.php:
+#: 96
+msgid "Instead of bottled water get a reusable container to carry water. Also you can get a filter to make your home tap taste more like bottled water. It is definitely more cost efficient"
+msgstr "Isteden for å kjøpe vann på flaske, skaff deg en flaske å ha vannet på. Det er definitivt mer økonomisk."
+
+#: gogreentips.php:
+#: 97
+msgid "Every minute you cut from your shower is roughly 5 gallons of water. The less time your shower takes, the lower your impact on the environment"
+msgstr "Hvert minutt du kutter ned på dusjen utgjør 15liter vann."
+
+#: gogreentips.php:
+#: 98
+msgid "If you do not recycle this, it will take a million years to decompose"
+msgstr "Hvis du ikke resirkulerer glass, vil det ta en million år før det nedbrytes."
+
+#: gogreentips.php:
+#: 99
+msgid "Every degree lower in the winter or higher in the summer you put it is a 10 percent decrease on your energy bill"
+msgstr "Hver grad du skrur ned og opp, utgjør 10prosent av strømregning din."
+
+#: gogreentips.php:
+#: 100
+msgid "Turn off your lights when you are not using them. The benefits are obvious"
+msgstr "Skru av lysene når du ikke bruker dem. Fordelene sier seg selv."
+
+#: gogreentips.php:
+#: 101
+msgid "Instead of getting a paper phone book. Use a online directory instead"
+msgstr "Isteden for å få papirtelefonkatalogen, bruk heller telefonkatalogen på nettet som er enklere og sparer miljøet."
+
+#: gogreentips.php:
+#: 102
+msgid "Take things that you are not going to wear or use and give it to a charity or someone who will use it"
+msgstr "Ta tingene du ikke kommer til å bruk å gi de vekk til veldedighet eller noen som vil bruke de."
+
+#: gogreentips.php:
+#: 103
+msgid "Going to a car wash is a lot more water efficient then washing your car at home"
+msgstr "Å bruke en bilvaskemaskin er mer vanneffektivt enn å vaske bilen for hånd."
+
+#: gogreentips.php:
+#: 104
+msgid "Even though it will take a good investment to buy these you will find yourself gaining it back in no time"
+msgstr "Selv om de er dyrere enn vanlig batteri, vil du tjene det inn over tid."
+
+#: gogreentips.php:
+#: 105
+msgid "If every house in the US did this then we would save 18 million trees every year"
+msgstr "Hvis alle husstandene i USA gjør dette, vil det spare 18 millioner tre hvert år!"
+
+#: gogreentips.php:
+#: 106
+msgid "You can not recycle plastic bags, instead get yourself a reusable bag so that you will not have to worry about carrying your necessities"
+msgstr "Du kan ikke resirkulere plastikkposer, få deg en pose som du kan bruke mange ganger."
+
+#: gogreentips.php:
+#: 107
+msgid "If your tires are inflated at all times your car will run more miles on less gas"
+msgstr "Hvis dekkene på bilen din har rett lufttrykk, vil du bruke mindre drivstoff på milen."
+
+#: gogreentips.php:
+#: 108
+msgid "It is good for the air, can keep you cool, and can increase your property value"
+msgstr "Det er bra for luften og kan få verdien på tomten din til å stige."
+
+#: gogreentips.php:
+#: 109
+msgid "If you have to go somewhere close consider riding your bike or walking there instead of your car. It is better on the environment and healthier"
+msgstr "Hvis du skal en plass i nærheten, bruk sykkelen eller gå isteden for å bruke bilen. Det er bedre for miljøet og for helsen din!"
+
+#: gogreentips.php:
+#: 186
+msgid "Title:"
+msgstr "Загаловак:"
+
+#: gogreentips.php:
+#: 190
+msgid "Style"
+msgstr "Стыль"
+
+#: gogreentips.php:192
+msgid "Vertical"
+msgstr "Вертыкаль"
+
+#: gogreentips.php:193
+msgid "Horizontal"
+msgstr "Гарызанталь"
+

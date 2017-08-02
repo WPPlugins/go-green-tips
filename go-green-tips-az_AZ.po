@@ -1,0 +1,177 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Green Living Tips\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-04-17 07:56-0500\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Madat <translator.baku@gmail.com>\n"
+"Language-Team: Webmestre <translator.baku@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Azerbaijani\n"
+"X-Poedit-Country: AZERBAIJAN\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: gogreentips.php:74
+msgid "Change to fluorescent bulbs"
+msgstr "Fluoresent lampaları dəyişin"
+
+#: gogreentips.php:75
+msgid "Hang outside to dry"
+msgstr "Əşiyaların quruması üçün açıq havadan asın"
+
+#: gogreentips.php:76
+msgid "Use both sides of paper"
+msgstr "Kağızın iki tərəfini istifadə edin"
+
+#: gogreentips.php:77
+msgid "Get rid of baths"
+msgstr "Hamamdan canını qurtarmaq"
+
+#: gogreentips.php:78
+msgid "Do not get bottled water"
+msgstr "Şüşədə su almayın"
+
+#: gogreentips.php:79
+msgid "Shorten your shower"
+msgstr "Su prosedurlarının vaxtını azaldın"
+
+#: gogreentips.php:80
+msgid "Recycle glass"
+msgstr "Şüşənin emalı"
+
+#: gogreentips.php:81
+msgid "Turn down your thermostat"
+msgstr "Öz termostati söndürün"
+
+#: gogreentips.php:82
+msgid "Turn off your lights"
+msgstr "Öz işığınızı söndürün"
+
+#: gogreentips.php:83
+msgid "Do not get a paper phone book"
+msgstr "Kağız telefon kitabçasını almayın"
+
+#: gogreentips.php:84
+msgid "Give things away"
+msgstr "Lazım olmayan əşiyaları verin"
+
+#: gogreentips.php:85
+msgid "Go to a car wash"
+msgstr "Maşın yuyulmasına gedin "
+
+#: gogreentips.php:86
+msgid "Buy rechargeable batteries"
+msgstr "Yenidən doldurulan batareyaları alın"
+
+#: gogreentips.php:87
+msgid "Pay your bills online"
+msgstr "Fakturaları on-layn ödəyin"
+
+#: gogreentips.php:88
+msgid "Get a reusable bag"
+msgstr "Çoxistifadəli sumkanı alın"
+
+#: gogreentips.php:89
+msgid "Inflate your tires"
+msgstr "Öz təkərlərinizi hava ila doldurun"
+
+#: gogreentips.php:90
+msgid "Plant a tree"
+msgstr "Ağac əkin"
+
+#: gogreentips.php:91
+msgid "Walk or ride your bike when you can"
+msgstr "Boş vaxtda gəzin yaxud velosipeddə gəzin"
+
+#: gogreentips.php:92
+msgid "If every house in the United States changed all of the light bulbs in their house, that would be equivalent to taking one million cars off the streets."
+msgstr "Əgər Amerikada hər evdə lampalar dəyişdirilərsa onda bu küçələrdən bir miliyon avtomaşın müsadirə edilməsinə bərabərdir."
+
+#: gogreentips.php:93
+msgid "Get a clothes line or rack to dry your cloths. Your clothes will last longer and you will save money."
+msgstr "Sizin paltarlarınızın qurtması üçün kəndir yaxud paltarasan almaq."
+
+#: gogreentips.php:94
+msgid "If you have a printer with a double sided print option, use it. You will save half of the amount of paper you would have normally used."
+msgstr "Əgər Sizdə iki tərəfli çap üçün printer varsa onda onu istifadə edin.  Siz hər gün iştətdiyiniz kağızın yarisini qənaət edəcəksiniz.  "
+
+#: gogreentips.php:95
+msgid "Do not take baths, take showers. You will save about half the amount of water that you would if you were taking a bath."
+msgstr "Vannadan istifadə etməyin, duş qəbul edin. Siz vanna üçün istifadə etdiyiniz suyun yarısını Siz qənaət edəcəksiniz."
+
+#: gogreentips.php:96
+msgid "Instead of bottled water get a reusable container to carry water. Also you can get a filter to make your home tap taste more like bottled water. It is definitely more cost efficient."
+msgstr "Şüşə butulkasında olan suyu əvəzində suyun daşınması üçün emal olunmuş materialdan düzəldilən konteynerdən istifadə edin. Eyni zamanda evdə kran altında gələn suyu təmizləməsi üçün filterdən istifadə edin. Bu sözsüz ki iqtisadi nəzərdən daha da effektivdir."
+
+#: gogreentips.php:97
+msgid "Every minute you cut from your shower is roughly 5 gallons of water. The less time your shower takes, the lower your impact on the environment."
+msgstr "Hər dəqiqə  Siz təqribən 5 qalon su duşda istifadə edirsiniz. Siz az vaxt duş qəbul etdiyiniz zaman onda Sizin təsiriniz də ətraf mühüdə azalır."
+
+#: gogreentips.php:98
+msgid "If you do not recycle this, it will take a million years to decompose."
+msgstr "Əgər Siz şüşəni emal etmirsiniz isə onda onun dağılması üçün miliyon il lazım olacaq."
+
+#: gogreentips.php:99
+msgid "Every degree lower in the winter or higher in the summer you put it is a 10 percent decrease on your energy bill."
+msgstr "Qışda temperaturun bir dərəcə aşağı və yayda temperaturun bir dərəcə qalxması elektrik enerjisinin sərf edilməsini 10 faiz azaldır."
+
+#: gogreentips.php:100
+msgid "Turn off your lights when you are not using them. The benefits are obvious."
+msgstr "İşığı istifadə etmirsiniz isə, onu söndürün. Üstünlük şübhəsiz ilə görsənir."
+
+#: gogreentips.php:101
+msgid "Instead of getting a paper phone book. Use a online directory instead."
+msgstr "Kağız telefon kitabçaları almağı əvəzinə onlayn kataloqlardan istifadə edin."
+
+#: gogreentips.php:102
+msgid "Take things that you are not going to wear or use and give it to a charity or someone who will use it."
+msgstr "Götürün istifadə etmədiyiniz yaxud geyinmədiyiniz əşiyanı verin xeyriyyə fonduna yada kimə isə kim bunları istifadə edəcək."
+
+#: gogreentips.php:103
+msgid "Going to a car wash is a lot more water efficient then washing your car at home."
+msgstr "Suyu sərf edildiyi mövgedən avtoyuma yerinə getmək daha sərfəlidir ki necə avtomobili evdə yumaq."
+
+#: gogreentips.php:104
+msgid "Even though it will take a good investment to buy these you will find yourself gaining it back in no time."
+msgstr "Əgər buna yaxşı investisiyalar talab olunsa belə Sizə bir daha bu suala qayıtmaq lazım olmayacaq."
+
+#: gogreentips.php:105
+msgid "If every house in the US did this then we would save 18 million trees every year."
+msgstr "Əgər ABŞ-da hər ev bunu etsə onda biz hər il 18 miliyon ağac qoruya bilərik."
+
+#: gogreentips.php:106
+msgid "You can not recycle plastic bags, instead get yourself a reusable bag so that you will not have to worry about carrying your necessities."
+msgstr "Siz plasitk paketləri emal eda bilmirsiniz, onun yerinə çoxsaylı istifadə üçün sumka alın, və bunu ilə də Siz satın aldığınız şeylərin daşınması barəsində narahatçılıq keçirmək lazım olmayacaq."
+
+#: gogreentips.php:107
+msgid "If your tires are inflated at all times your car will run more miles on less gas."
+msgstr "Əgər təkər həmişə hava ilə doldurulubda, onda Sizin maşın yanacaqdan qənaətlə istifadə edərək daha çox mil getmiş olacaq."
+
+#: gogreentips.php:108
+msgid "It is good for the air, can keep you cool, and can increase your property value."
+msgstr "Bu hava üçün yaxşıdır, Sizi istidan xilas edəcək və mülkün qiymətini çoxaldacaq."
+
+#: gogreentips.php:109
+msgid "If you have to go somewhere close consider riding your bike or walking there instead of your car. It is better on the environment and healthier."
+msgstr "Əgər Sizə harasa yaxın yerə getmək lazımdırsa maşın ilə getmək yerinə velosiped ilə yaxud piyada getmək mümkünlüyünü baxın. Bu ətraf mühüdü üçün və Sizin sağlamlığınız üçün yaxşıdır."
+
+#: gogreentips.php:186
+msgid "Title:"
+msgstr "Başlıq:"
+
+#: gogreentips.php:190
+msgid "Style"
+msgstr "Stil"
+
+#: gogreentips.php:192
+msgid "Vertical"
+msgstr "Vertikal"
+
+#: gogreentips.php:193
+msgid "Horizontal"
+msgstr "Horizontal"
+

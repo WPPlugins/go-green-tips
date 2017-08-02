@@ -1,0 +1,177 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Green Living Tips\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-04-17 07:56-0500\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Natalija Strazdauskienė <ciuvir@mail.ru>\n"
+"Language-Team: Nata Strazda <nata@epastas.lt>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Lithuanian\n"
+"X-Poedit-Country: LITHUANIA\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: gogreentips.php:74
+msgid "Change to fluorescent bulbs"
+msgstr "Keisti į fluorescencines lempas"
+
+#: gogreentips.php:75
+msgid "Hang outside to dry"
+msgstr "Pakabinti lauke, kad išdžiūtų"
+
+#: gogreentips.php:76
+msgid "Use both sides of paper"
+msgstr "Naudokite abi popieriaus puses"
+
+#: gogreentips.php:77
+msgid "Get rid of baths"
+msgstr "Atsikratyti pirčių"
+
+#: gogreentips.php:78
+msgid "Do not get bottled water"
+msgstr "Neturėkite vandens buteliuose"
+
+#: gogreentips.php:79
+msgid "Shorten your shower"
+msgstr "Sumažinkite savo dušą"
+
+#: gogreentips.php:80
+msgid "Recycle glass"
+msgstr "Rūšiuok stiklą"
+
+#: gogreentips.php:81
+msgid "Turn down your thermostat"
+msgstr "Sumažink savo termostatą"
+
+#: gogreentips.php:82
+msgid "Turn off your lights"
+msgstr "Išjunkite savo šviesas"
+
+#: gogreentips.php:83
+msgid "Do not get a paper phone book"
+msgstr "Nenaudokite popierinės adresų knygos"
+
+#: gogreentips.php:84
+msgid "Give things away"
+msgstr "Atiduokite nereikalingus daiktus"
+
+#: gogreentips.php:85
+msgid "Go to a car wash"
+msgstr "Eikite į automobilių plovyklą"
+
+#: gogreentips.php:86
+msgid "Buy rechargeable batteries"
+msgstr "Pirkite akumuliatorius"
+
+#: gogreentips.php:87
+msgid "Pay your bills online"
+msgstr "Apmokėkite sąskaitas internetu"
+
+#: gogreentips.php:88
+msgid "Get a reusable bag"
+msgstr "Įsigykite daugkartinio naudojimo maišelį"
+
+#: gogreentips.php:89
+msgid "Inflate your tires"
+msgstr "Prisipūskite savo padangas"
+
+#: gogreentips.php:90
+msgid "Plant a tree"
+msgstr "Pasodink medį"
+
+#: gogreentips.php:91
+msgid "Walk or ride your bike when you can"
+msgstr "Vaikščiok pėsčiomis ir važinėk savo dviračiu, kai gali"
+
+#: gogreentips.php:92
+msgid "If every house in the United States changed all of the light bulbs in their house, that would be equivalent to taking one million cars off the streets."
+msgstr "Jei kiekvienas Jungtinėse Valstijose pakeistų visas lemputes savo namuose, tai būsų tolygu vieno milijono automobilių pašalinimui iš gatvių."
+
+#: gogreentips.php:93
+msgid "Get a clothes line or rack to dry your cloths. Your clothes will last longer and you will save money."
+msgstr "Įsigykite pakabas arba stovus drabužiams bei šluostėms džiovinimui kabinti. Tuomet drabužiai tarnaus ilgiau ir sutaupys jums pinigų."
+
+#: gogreentips.php:94
+msgid "If you have a printer with a double sided print option, use it. You will save half of the amount of paper you would have normally used."
+msgstr "Jeigu turite spausdintuvą su dvipuse spausdinimo parinktim, naudokite ją. Jums tai leis sutaupyti pusę sumos, kurią paprastai panaudojate popieriui."
+
+#: gogreentips.php:95
+msgid "Do not take baths, take showers. You will save about half the amount of water that you would if you were taking a bath."
+msgstr "Nesinaudokite vonia, naudokitės dušu. Tuo metu sunaudosite perpus mažiau vandens, nei naudojantis vonia."
+
+#: gogreentips.php:96
+msgid "Instead of bottled water get a reusable container to carry water. Also you can get a filter to make your home tap taste more like bottled water. It is definitely more cost efficient."
+msgstr "Vietoj stiklinės taros vandeiui naudokite daugkartines talpas arba įsigykite vandens filtrą, kurio pagalba vandenį iš čiaupo prilygins vandeniui stiklinėje taroje. Tai žymiai efektyvu ir ekonomiška."
+
+#: gogreentips.php:97
+msgid "Every minute you cut from your shower is roughly 5 gallons of water. The less time your shower takes, the lower your impact on the environment."
+msgstr "Kiekvieną minutę iš dušo išbėga 5 galonai vandens. Kuo trumpiau būnate po dušu, tuo mažesnis poveikis aplinkai."
+
+#: gogreentips.php:98
+msgid "If you do not recycle this, it will take a million years to decompose."
+msgstr "Jei nerušiuosi, tai suyrs po milijono metų."
+
+#: gogreentips.php:99
+msgid "Every degree lower in the winter or higher in the summer you put it is a 10 percent decrease on your energy bill."
+msgstr "Vienu laipsniu mažiau žiemą ar daugiau vasarą ir jūs sumažinate 10% savo sąskaitas už energiją."
+
+#: gogreentips.php:100
+msgid "Turn off your lights when you are not using them. The benefits are obvious."
+msgstr "Išjunkite šviesą, kai ja nesinaudojate. Nauda yra akivaizdi."
+
+#: gogreentips.php:101
+msgid "Instead of getting a paper phone book. Use a online directory instead."
+msgstr "Venkite naudoti popierines telefonų knygas. Naudokite internetinius katalogus."
+
+#: gogreentips.php:102
+msgid "Take things that you are not going to wear or use and give it to a charity or someone who will use it."
+msgstr "Atiduokite daiktus, kuriuos nebedėvėte bei nenaudojate, labdarai arba tiems, kas juos naudos."
+
+#: gogreentips.php:103
+msgid "Going to a car wash is a lot more water efficient then washing your car at home."
+msgstr "Plauti automobilį plovyklose yra daug efektyviau vandens taupumo atžvilgiu nei plauti ją namuose."
+
+#: gogreentips.php:104
+msgid "Even though it will take a good investment to buy these you will find yourself gaining it back in no time."
+msgstr "Nors tai bus ir investicija, tačiau ji atsipirks ir ne kartą."
+
+#: gogreentips.php:105
+msgid "If every house in the US did this then we would save 18 million trees every year."
+msgstr "Jeigu tai darytų kiekvienas JAV namas, tai sutaupytume 18 milijonų medžių."
+
+#: gogreentips.php:106
+msgid "You can not recycle plastic bags, instead get yourself a reusable bag so that you will not have to worry about carrying your necessities."
+msgstr "Jūs negalite rūšiuoti plastikinius maišelius, bet vietoj jų galite įsigyti daugkartinio naudojimo maišelį ir jums nebeliks ko nerimauti, nes atitiks jūsų poreikius."
+
+#: gogreentips.php:107
+msgid "If your tires are inflated at all times your car will run more miles on less gas."
+msgstr "Jeigu jūsų automobilio ratai yra gerai pripusti, tuomet galėsite pravažiuoti daugiau kilometrų naudojant mažiau kūro nei įprastai."
+
+#: gogreentips.php:108
+msgid "It is good for the air, can keep you cool, and can increase your property value."
+msgstr "Tai naudinga orui, gali laikyti šaltyje ir padidinti savo turto vertę."
+
+#: gogreentips.php:109
+msgid "If you have to go somewhere close consider riding your bike or walking there instead of your car. It is better on the environment and healthier."
+msgstr "Jei reikia nueiti kažkur netoli, tai eik pėsčiomis arba važiuok dviračiu, o ne automobiliu. Tai geriau aplinkai bei sveikatai."
+
+#: gogreentips.php:186
+msgid "Title:"
+msgstr "Pavadinimas:"
+
+#: gogreentips.php:190
+msgid "Style"
+msgstr "Stilius"
+
+#: gogreentips.php:192
+msgid "Vertical"
+msgstr "Vertikalus"
+
+#: gogreentips.php:193
+msgid "Horizontal"
+msgstr "Horizontalus"
+
